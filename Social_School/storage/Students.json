@@ -1,0 +1,12 @@
+[
+    {
+        "Student_Id": "23/0115",
+        "Name": "Wangara",
+        "DOB": "23/02/2001",
+        "Gender": "Male",
+        "Admission_date": "12/06/2025",
+        "Notes": "Good boy",
+        "Attendance": [],
+        "Grades": {}
+    }
+]
