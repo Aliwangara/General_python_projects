@@ -6,7 +6,16 @@
         "Gender": "Male",
         "Admission_date": "12/06/2025",
         "Notes": "Good boy",
-        "Attendance": [],
-        "Grades": {}
+        "Attendance": [
+            {
+                "Date": "2025-11-27 16:25:25.078734",
+                "Status": "Present"
+            }
+        ],
+        "Grades": {
+            "math": 50.0,
+            "english": 70.0,
+            "Kiswahili": 80.0
+        }
     }
 ]
