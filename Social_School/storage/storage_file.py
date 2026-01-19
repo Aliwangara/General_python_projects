@@ -19,3 +19,6 @@ def get_from_file(file=storage_location):
     except Exception as e:
         print("Failed to load data",e)
         return []
+    except json.JSONDecodeError as e:
+        print(e)
+        return []
