@@ -8,7 +8,7 @@ print("Today", datetime.strftime(today, "%Y-%m-%d"))
 
 
 
-date = datetime.strptime("2026-01-01","%Y-%m-%d")
+date = datetime.strptime("2026-01-01","%Y-%m-%d") 
 today = datetime.strftime(datetime.today(), "%Y-%m-%d")
 
 print(today)
